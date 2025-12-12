@@ -1,0 +1,4 @@
+﻿  lab4.program.pc.curs1.cpp
+C:\Users\Admin\Desktop\curs1PC\lab4.pc.curs1\lab4.program.pc.curs1\lab4.program.pc.curs1\lab4.program.pc.curs1.cpp(216,16): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Admin\Desktop\curs1PC\lab4.pc.curs1\lab4.program.pc.curs1\lab4.program.pc.curs1\lab4.program.pc.curs1.cpp(158,48): warning C4101: 'T': unreferenced local variable
+  lab4.program.pc.curs1.vcxproj -> C:\Users\Admin\Desktop\curs1PC\lab4.pc.curs1\lab4.program.pc.curs1\x64\Debug\lab4.program.pc.curs1.exe

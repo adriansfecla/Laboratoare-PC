@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\curs1PC\\lab2.pc.curs1\\curs1sem1lab2.1pc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3DD282-9518-4FD3-8BC3-DB8376415D79}|curs1sem1lab2.1pc\\curs1sem1lab2.1pc.vcxproj|C:\\Users\\Admin\\Desktop\\curs1PC\\lab2.pc.curs1\\curs1sem1lab2.1pc\\curs1sem1lab2.1pc\\curs1sem1lab2.1pc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E3DD282-9518-4FD3-8BC3-DB8376415D79}|curs1sem1lab2.1pc\\curs1sem1lab2.1pc.vcxproj|solutionrelative:curs1sem1lab2.1pc\\curs1sem1lab2.1pc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "curs1sem1lab2.1pc.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\curs1PC\\lab2.pc.curs1\\curs1sem1lab2.1pc\\curs1sem1lab2.1pc\\curs1sem1lab2.1pc.cpp",
+              "RelativeDocumentMoniker": "curs1sem1lab2.1pc\\curs1sem1lab2.1pc.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\curs1PC\\lab2.pc.curs1\\curs1sem1lab2.1pc\\curs1sem1lab2.1pc\\curs1sem1lab2.1pc.cpp",
+              "RelativeToolTip": "curs1sem1lab2.1pc\\curs1sem1lab2.1pc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-26T13:00:57.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

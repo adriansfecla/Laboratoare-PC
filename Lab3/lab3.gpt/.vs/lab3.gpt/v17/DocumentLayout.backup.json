@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\lab3.gpt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EECD4A3-7A93-4817-8988-8E18EE666A88}|lab3.gpt\\lab3.gpt.vcxproj|C:\\Users\\Admin\\source\\repos\\lab3.gpt\\lab3.gpt\\lab3.gpt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EECD4A3-7A93-4817-8988-8E18EE666A88}|lab3.gpt\\lab3.gpt.vcxproj|solutionrelative:lab3.gpt\\lab3.gpt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab3.gpt.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lab3.gpt\\lab3.gpt\\lab3.gpt.cpp",
+              "RelativeDocumentMoniker": "lab3.gpt\\lab3.gpt.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lab3.gpt\\lab3.gpt\\lab3.gpt.cpp",
+              "RelativeToolTip": "lab3.gpt\\lab3.gpt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-29T11:54:13.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  lab5.pc.curs1.cpp
+C:\Users\Admin\Desktop\curs1PC\lab5.pc.curs1\lab5.pc.curs1\lab5.pc.curs1\lab5.pc.curs1.cpp(8,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\curs1PC\lab5.pc.curs1\lab5.pc.curs1\lab5.pc.curs1\lab5.pc.curs1.cpp(35,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\curs1PC\lab5.pc.curs1\lab5.pc.curs1\lab5.pc.curs1\lab5.pc.curs1.cpp(46,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\curs1PC\lab5.pc.curs1\lab5.pc.curs1\lab5.pc.curs1\lab5.pc.curs1.cpp(73,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab5.pc.curs1.vcxproj -> C:\Users\Admin\Desktop\curs1PC\lab5.pc.curs1\lab5.pc.curs1\x64\Debug\lab5.pc.curs1.exe
